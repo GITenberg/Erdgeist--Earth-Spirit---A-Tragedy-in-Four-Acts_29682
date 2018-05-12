@@ -1,0 +1,38 @@
+_repo: Erdgeist--Earth-Spirit---A-Tragedy-in-Four-Acts_29682
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Eliot, Samuel A. (Samuel Atkins)
+    alias: Eliot, Samuel Atkins
+    birthdate: 1893
+    deathdate: 1984
+    gutenberg_agent_id: '34081'
+    url: http://www.gutenberg.org/2009/agents/34081
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Atkins_Eliot,_Jr.
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wedekind, Frank
+    alias: Wedekind, Benjamin Franklin
+    birthdate: 1864
+    deathdate: 1918
+    gutenberg_agent_id: '34080'
+    url: http://www.gutenberg.org/2009/agents/34080
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Wedekind
+description: ''
+gutenberg_issued: '2009-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Tragedies'
+title: 'Erdgeist (Earth-Spirit): A Tragedy in Four Acts'
+url: http://www.gutenberg.org/ebooks/29682
